@@ -15,5 +15,4 @@ npm run dev
 ```bash
 npm run build
 ```
-
-##### 项目采用了 [Quasar](https://quasar.dev) 框架
+构建产物位于`dist`目录

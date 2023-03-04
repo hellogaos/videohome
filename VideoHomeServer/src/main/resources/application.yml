@@ -1,7 +1,6 @@
 
 # 影视所在目录
-videoRootPath: "H:/Videos/"
-#videoRootPath: "./Videos/"
+videoRootPath: "./Videos/"
 
 
 server:
