@@ -1,0 +1,30 @@
+{
+  "name": "videohome",
+  "version": "0.0.1",
+  "description": "影视小窝",
+  "productName": "影视小窝",
+  "author": "",
+  "private": true,
+  "scripts": {
+    "dev": "quasar dev",
+    "build": "quasar build"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.15.11",
+    "@skjnldsv/vue-plyr": "^7.3.0",
+    "axios": "^1.3.4",
+    "quasar": "^2.11.7",
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@quasar/app-vite": "^1.2.1",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21"
+  },
+  "engines": {
+    "node": "^18 || ^16 || ^14.19",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

@@ -1,0 +1,16 @@
+
+# 影视所在目录
+videoRootPath: "H:/Videos/"
+#videoRootPath: "./Videos/"
+
+
+server:
+  port: 80
+
+logging:
+  level:
+    root: error
+
+spring:
+  main:
+    banner-mode: off
