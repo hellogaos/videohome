@@ -2,8 +2,12 @@
 一个简易的影视网站，用于在本地或局域网内搭建一个视频网站，适合影视收藏爱好者使用
 
 ## 如何使用
-下载代码，分别按 `VideoHomeWeb/README.md` 和 `VideoHomeServer/README.md` 中的说明进行构建，最终会得到jar包`VideoHomeServer.jar`，
-运行 `java -jar VideoHomeServer.jar` 即可启动网站服务。
+首先，要运行该网站，电脑需要装有[java17](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/x64/windows/)环境
+
+然后，从[Releases页面](https://github.com/hellogaos/videohome/releases)下载已构建好的程序，解压运行其中的脚本即可。
+
+（若要自行构建程序，请下载源码，分别按 `VideoHomeWeb/README.md` 和 `VideoHomeServer/README.md` 中的说明进行构建，最终会得到jar包`VideoHomeServer.jar`，
+运行 `java -jar VideoHomeServer.jar` 即可启动网站服务。）
 ## 影视的组织形式
 网站运行时会自动扫描加载指定目录下的影视，该目录默认为`./Videos/`（可以在`VideoHomeServer/src/main/resources/application.yml`中的`videoRootPath: `配置项修改默认目录）。
 该目录下必须有以下的基础目录结构：
