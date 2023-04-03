@@ -2,7 +2,7 @@
 一个简易的影视网站，用于在本地或局域网内搭建一个视频网站，适合影视收藏爱好者使用
 
 ## 如何使用
-首先，要运行该网站，电脑需要装有[java17](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/x64/windows/)环境
+首先，要运行该网站，电脑需要装有[java17](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/x64/windows/)环境，
 
 然后，从[Releases页面](https://github.com/hellogaos/videohome/releases)下载已构建好的程序，解压运行其中的脚本即可。
 
