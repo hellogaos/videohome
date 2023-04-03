@@ -4,7 +4,7 @@
 ## 如何使用
 首先，要运行该网站，电脑需要装有[java17](https://mirrors.tuna.tsinghua.edu.cn/Adoptium/17/jdk/x64/windows/)环境，
 
-然后，从[Releases页面](https://github.com/hellogaos/videohome/releases)下载已构建好的程序，解压运行其中的脚本即可。
+然后，从[Releases页面](https://github.com/hellogaos/videohome/releases)下载已构建好的程序，解压，运行其中的脚本即可。
 
 （若要自行构建程序，请下载源码，分别按 `VideoHomeWeb/README.md` 和 `VideoHomeServer/README.md` 中的说明进行构建，最终会得到jar包`VideoHomeServer.jar`，
 运行 `java -jar VideoHomeServer.jar` 即可启动网站服务。）
